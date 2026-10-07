@@ -3,7 +3,7 @@ name: obsidian-svg-diagrams
 description: >
   Generate publication-ready SVG diagrams for Obsidian vaults. Covers layout calculation, boundary safety, visual alignment, color palette, and validation.
   Use when the user asks to create diagrams, charts, or visual illustrations for Obsidian notes, or when delivering Markdown files that contain structural/logical content worth visualizing.
-  触发词（中文）：给我画、画出来、画个图、画一张图、把这部分画出来、SVG图、画个SVG、生成图、配图、画个流程图、画个结构图、画个时间线、画个对照图、画个层级图、可视化、做个图、插图、画一下、帮我把这个画成图、用图表示、图形化、画成SVG、存成SVG、落库配图、画到md里
+  触发词：给我画SVG图、画SVG、画个SVG图、生成SVG、SVG图、画流程图、画结构图、画时间线、画对照图、画层级图、画架构图、画对比图、画决策图、画因果图、画排除图、画公式图、画示意图、画逻辑图、画关系图、画思维导图、画时间轴、画决策树、画因果链、画排除法、画公式链
 ---
 
 # Obsidian SVG Diagrams Skill
